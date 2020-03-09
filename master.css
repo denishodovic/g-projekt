@@ -1,0 +1,24 @@
+body{
+  background: url(https://images.unsplash.com/photo-1574844452054-2c46c332e5b0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=60)
+}
+
+div{
+  background: orange;
+  border:red 2px dashed;
+  border-style:solid;
+}
+
+h2{
+  font-family: 'Oswald', sans-serif;
+  color:blue;
+  border:1px solid black;
+  text-align: /* HACK:  */;
+}
+
+p{
+  color: rgb(255, 0, 0);
+}
+
+h4{
+  color: rgb(50, 98, 168)
+}
